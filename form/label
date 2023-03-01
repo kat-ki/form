@@ -3,4 +3,6 @@
   <input type="text" id="name" name="name">
   <label for="email">Email:</label>
   <input type="email" id="email" name="email">
+  <label for="date">Date:</label>
+  <input type="date" id="date" name="date">
 </form>
