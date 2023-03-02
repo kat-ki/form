@@ -1,3 +1,4 @@
+<div>
 <form>
   <label for="name">Name:</label>
   <input type="text" id="name" name="name">
@@ -6,3 +7,4 @@
   <label for="date">Date:</label>
   <input type="date" id="date" name="date">
 </form>
+</div>
